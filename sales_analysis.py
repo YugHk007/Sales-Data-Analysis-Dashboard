@@ -1,7 +1,3 @@
-# ============================================================
-#  PROJECT 1 — Sales Data Analysis Dashboard
-#  Tools: Pandas, Matplotlib, Plotly
-# ============================================================
 
 import pandas as pd
 import matplotlib.pyplot as plt
