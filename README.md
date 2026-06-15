@@ -25,6 +25,10 @@ Sample Superstore Dataset
 
 ![Dashboard](sales_dashboard_static.png)
 
+## Interactive Dashboard
+
+[View Dashboard](https://github.com/YugHk007/Sales-Data-Analysis-Dashboard/blob/main/sales_dashboard_interactive.html)
+
 ## Files
 - sales_analysis.py
 - sales_dashboard_interactive.html
